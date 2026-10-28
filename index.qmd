@@ -3,16 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Mann-Damien Picture.jpeg
 ---
 
 :::{#me}
 
 ## Goals
 
+I want to make good science
+
 ## Education
 
+Big Bachelors + Almost M.S
+
 ## Experience
+
+- Genomics and Bioinformatics (Bash)
+- data science with R for the Life Sciences (R)
 
 :::
 

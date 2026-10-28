@@ -1,9 +1,15 @@
 ---
 title: "Projects"
+about:
+  template: broadside
+  image: img/T10-2B Right Eye Closeup.BMP
 ---
 
 ## Project 1
+Understanding Newt lens regeneration
 
 ## Project 2
+Working with a bio-reactor
 
 ## Project 3
+developing a bash script for automatic bio-reactor statistics
