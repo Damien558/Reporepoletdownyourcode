@@ -6,7 +6,7 @@ about:
 ---
 
 ## Project 1
-Understanding Newt lens regeneration
+Understanding Newt lens regeneration (wow so cool)
 
 ## Project 2
 Working with a bio-reactor

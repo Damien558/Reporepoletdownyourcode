@@ -20,7 +20,7 @@ Big Bachelors + Almost M.S
 
 - Genomics and Bioinformatics (Bash)
 - data science with R for the Life Sciences (R)
-- 22 years of life #unc
+- 22 years of life #unc #old
 
 :::
 
